@@ -1,2 +1,1 @@
-# RandomgifGenerate
-Generate the gif
+# random-gifs
